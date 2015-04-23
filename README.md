@@ -2,6 +2,8 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
+![preview](https://raw.githubusercontent.com/Jam3/quick-toolbar/master/preview.gif)
+
 Create a quick and dirty toolbar for rapid prototyping
 
 ## Usage
