@@ -1,0 +1,33 @@
+{
+  "name": "quick-toolbar",
+  "version": "1.0.0",
+  "description": "Create a quick and dirty toolbar for rapid prototyping",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Mikko Haapoja",
+    "email": "me@mikkoh.com",
+    "url": "https://github.com/mikkoh"
+  },
+  "dependencies": {
+    "apply-selector-and-css": "^1.0.4",
+    "dom-classes": "0.0.1",
+    "new-element": "0.0.2",
+    "update": "^0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "quick,toolbar,tools,ui,rapid,prototype"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikkoh/quick-toolbar.git"
+  },
+  "homepage": "https://github.com/mikkoh/quick-toolbar",
+  "bugs": {
+    "url": "https://github.com/mikkoh/quick-toolbar/issues"
+  }
+}
