@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "apply-selector-and-css": "^1.0.4",
-    "dom-classes": "0.0.1",
     "new-element": "0.0.2",
     "update": "^0.3.6"
   },
@@ -24,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikkoh/quick-toolbar.git"
+    "url": "git://github.com/jam3/quick-toolbar.git"
   },
-  "homepage": "https://github.com/mikkoh/quick-toolbar",
+  "homepage": "https://github.com/jam3/quick-toolbar",
   "bugs": {
-    "url": "https://github.com/mikkoh/quick-toolbar/issues"
+    "url": "https://github.com/jam3/quick-toolbar/issues"
   }
 }
