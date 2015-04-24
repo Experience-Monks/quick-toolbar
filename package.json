@@ -1,6 +1,6 @@
 {
   "name": "quick-toolbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a quick and dirty toolbar for rapid prototyping",
   "main": "index.js",
   "license": "MIT",
